@@ -1,6 +1,6 @@
 # Vote App
 
-freeCodeCamp Build a Voting App created with the MERN stack
+I have tried to Build a Voting App created with the MERN stack
 
 ## User Stories
 
